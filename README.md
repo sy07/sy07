@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Soni</h1>
-<h3 align="center">A passionate programmer from India.</h3>
+<h3 align="center">I'm a passionate programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sy07&label=Profile%20views&color=0e75b6&style=flat" alt="sy07" /> </p>
 
