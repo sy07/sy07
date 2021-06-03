@@ -1,4 +1,4 @@
-Hi there <!--👋--> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am Banshita Gangwar
+<h1 align="center">Hi there <!--👋--> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> , I am Yash Soni</h1>
 <h3 align="center">I'm a passionate programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sy07&label=Profile%20views&color=0e75b6&style=flat" alt="sy07" /> </p>
