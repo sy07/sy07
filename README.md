@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **soniyash0007@gmail.com**
 
+- ⚡ Fun fact **Procrastination is the art of keeping up with yesterday.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashsoni07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="yashsoni07" height="30" width="40" /></a>
